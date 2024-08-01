@@ -10,9 +10,7 @@ This project demonstrates how to set up an MQTT client using Python with the `gm
 - [Setup](#setup)
 - [Running the Project](#running-the-project)
 - [Publishing Messages](#publishing-messages)
-- [Logging](#logging)
-- [Contributing](#contributing)
-- [License](#license)
+- [Output](#output)
 
 ## Overview
 
